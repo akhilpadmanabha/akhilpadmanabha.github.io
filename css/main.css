@@ -62,7 +62,7 @@ margin-right: auto;
 
 }
 
-
-span{
-  vertical-align: middle;
+.box {
+   display: flex;
+   align-items:center;
 }
