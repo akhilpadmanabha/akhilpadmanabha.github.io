@@ -62,7 +62,7 @@ margin-right: auto;
 
 }
 
-.box {
-   display: flex;
-   align-items:center;
+div {
+ display: flex;
+ align-items: center;
 }
