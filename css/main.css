@@ -20,7 +20,7 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
-    font-size: 2.9em;
+    font-size: 2.7em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
@@ -30,7 +30,7 @@ p {
 }
 
 g {
-  font-size: 0.95em;
+  font-size: 0.9em;
   line-height: 1.15em;
   color: #333;
 }
