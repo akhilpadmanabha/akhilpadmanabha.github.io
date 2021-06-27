@@ -19,10 +19,12 @@ a {
 a:hover {
     text-decoration: underline;
 }
+
 h1 {
     font-size: 2.7em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
+
 p {
     font-size: 1.25em;
     line-height: 1.4em;
@@ -54,10 +56,16 @@ img {
 
 display: block;
 
-width: 75%;
-
 margin-left: auto;
 
 margin-right: auto;
 
+}
+.img1
+{
+  width: 75%;
+}
+.img2
+{
+  width: 25% 
 }
