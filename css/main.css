@@ -32,7 +32,7 @@ p {
 }
 
 g {
-  font-size: 0.9em;
+  font-size: 1.0em;
   line-height: 1.2em;
   color: #333;
 }
@@ -67,5 +67,5 @@ margin-right: auto;
 }
 .img2
 {
-  width: 20% 
+  width: 20%
 }
