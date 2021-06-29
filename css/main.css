@@ -21,8 +21,15 @@ a:hover {
 }
 
 h1 {
-    font-size: 2.7em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
+}
+.h1title
+{
+  font-size: 2.7em;
+}
+.h1subtitle
+{
+  font-size: 2.0em;
 }
 
 p {
