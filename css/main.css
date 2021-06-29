@@ -76,6 +76,6 @@ margin-right: auto;
   border-bottom-left-radius: 50% 50%;
 }
 .border--new {
-  border : 50px white; 
-
+  background-color: #fff;
+  padding: 10px;
 }
