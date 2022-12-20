@@ -1,2 +1,0 @@
-# akhilpadmanabha.github.io
-
