@@ -1,2 +1,1 @@
-# akhilpadmanabha.github.io
-
+This is the source code for Akhil Padmanabha's website: https://akhilpadmanabha.github.io/. It was adapted from Jon Barron's public academic website: https://jonbarron.info/. 
